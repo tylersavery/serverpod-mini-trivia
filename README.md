@@ -1,4 +1,4 @@
-#Serverpod mini tutorial
+# Serverpod mini tutorial
 
 Serverpod just released the beta for Serverpod mini, a lightweight version of Serverpod that is easier to get up and running.
 
