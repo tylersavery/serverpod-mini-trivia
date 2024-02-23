@@ -1,0 +1,6 @@
+class: GameState
+
+fields:
+  players: List<Player>
+  question: Question
+  roundEnds: int

@@ -1,0 +1,6 @@
+example:
+  - hello:
+trivia:
+  - join:
+  - getGameState:
+  - submitAnswer:

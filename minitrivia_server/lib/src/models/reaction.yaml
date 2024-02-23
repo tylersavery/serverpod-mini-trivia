@@ -1,0 +1,5 @@
+class: Reaction
+
+fields:
+  message: String
+  playerName: String

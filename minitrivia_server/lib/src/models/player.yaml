@@ -1,0 +1,6 @@
+class: Player
+
+fields:
+  identifier: String
+  name: String
+  score: int

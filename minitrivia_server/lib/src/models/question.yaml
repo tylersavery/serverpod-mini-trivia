@@ -1,0 +1,7 @@
+class: Question
+
+fields:
+  id: int
+  question: String
+  answers: List<String>
+  correctAnswer: int
